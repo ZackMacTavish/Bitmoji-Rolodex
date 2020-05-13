@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bitmoji-Rolodex/static/css/main.89673a11.chunk.css",
+    "main.js": "/Bitmoji-Rolodex/static/js/main.1a2236a0.chunk.js",
+    "main.js.map": "/Bitmoji-Rolodex/static/js/main.1a2236a0.chunk.js.map",
+    "runtime-main.js": "/Bitmoji-Rolodex/static/js/runtime-main.bc9809c8.js",
+    "runtime-main.js.map": "/Bitmoji-Rolodex/static/js/runtime-main.bc9809c8.js.map",
+    "static/js/2.7d94dc6b.chunk.js": "/Bitmoji-Rolodex/static/js/2.7d94dc6b.chunk.js",
+    "static/js/2.7d94dc6b.chunk.js.map": "/Bitmoji-Rolodex/static/js/2.7d94dc6b.chunk.js.map",
+    "index.html": "/Bitmoji-Rolodex/index.html",
+    "precache-manifest.47abd287995282bfe395e25cd7f1ff5f.js": "/Bitmoji-Rolodex/precache-manifest.47abd287995282bfe395e25cd7f1ff5f.js",
+    "service-worker.js": "/Bitmoji-Rolodex/service-worker.js",
+    "static/css/main.89673a11.chunk.css.map": "/Bitmoji-Rolodex/static/css/main.89673a11.chunk.css.map",
+    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/Bitmoji-Rolodex/static/js/2.7d94dc6b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Bitmoji-Rolodex/static/media/noah-bold-webfont.f1bb2b9e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc9809c8.js",
+    "static/js/2.7d94dc6b.chunk.js",
+    "static/css/main.89673a11.chunk.css",
+    "static/js/main.1a2236a0.chunk.js"
+  ]
+}
